@@ -93,7 +93,7 @@ All core behaviors are covered. The main gap is that conflict detection only che
 
 ## 📸 Demo
 
-<a href="/course_images/ai110/Screenshot 2026-03-15 at 5.37.56 PM.png" target="_blank"><img src='/course_images/ai110/Screenshot 2026-03-15 at 5.37.56 PM.png' title='PawPal App' width='' alt='PawPal App' class='center-block' /></a>
+<a href="https://github.com/rhy900/ai110-module2show-pawpal-starter/blob/main/Screenshot%202026-03-15%20at%205.37.56%E2%80%AFPM.png" target="_blank"><img src='/course_images/ai110/Screenshot 2026-03-15 at 5.37.56 PM.png' title='PawPal App' width='' alt='PawPal App' class='center-block' /></a>
 
 ---
 
